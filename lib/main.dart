@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
 void main() {
-  runApp(Container());
+  runApp(Container(
+    color: Colors.amber,
+  ));
 }

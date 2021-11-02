@@ -26,6 +26,11 @@ As params it receives your master Widget, where your application is within.
 ## Concepts
 
 ### Widget
-Basically, all we see (and also what we not see, at some moments, but we'll talk about this later) within a Flutter app is a widget. Since a button until the whole screen. 
+Basically, all we see (and also what we not see, at some moments, but we'll talk about this later) within a Flutter app is a widget. Since a button until the whole screen.
 
 For start a screen, we can set `Container()` component as master component and then start all the magic putting inside it the widgets.
+
+## Tricks
+
+### Reset OS configs
+If in some situation you desire reset the configuration applyed at OS folders, you can simply run `flutter create .` inside your app root directory after delete OS folders.
