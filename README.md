@@ -79,4 +79,17 @@ That floating button at right inferior corner.
 ### `Icon()`
 Component to add Icons from `Icons` constant.
 
+# Getting Started
+
+```bash
+$ git clone https://github.com/cristianprochnow/step-by-stapp.git
+
+$ cd step-by-stapp
+
+$ flutter run
+```
+
+---
+> App inspired at first class from NLW Together at Flutter journey. [@Rocketseat][rocketseat]
+
 [rocketseat]: https://www.rocketseat.com.br/
